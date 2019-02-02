@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="1">
+  <advance width="708.0"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <component base="a" xScale="0.665" yScale="0.671" xOffset="34.47500000000001"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-11 00:15:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

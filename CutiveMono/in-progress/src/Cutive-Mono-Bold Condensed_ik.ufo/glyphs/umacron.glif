@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="umacron" format="1">
+  <advance width="1029.0"/>
+  <unicode hex="016B"/>
+  <outline>
+    <component base="macron" xOffset="270.0" yOffset="-57.0"/>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-10 23:42:51 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="1272.0"/>
+  <unicode hex="013D"/>
+  <outline>
+    <component base="comma" xOffset="700.0" yOffset="1007.0"/>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-09 21:42:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>

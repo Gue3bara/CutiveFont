@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uacute" format="1">
+  <advance width="1029.0"/>
+  <unicode hex="00FA"/>
+  <outline>
+    <component base="acute" xOffset="294.0" yOffset="-2.0"/>
+    <component base="u"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-10 23:31:15 +0000</string>
+    </dict>
+  </lib>
+</glyph>

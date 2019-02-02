@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ldot" format="1">
+  <advance width="1271.0"/>
+  <unicode hex="013F"/>
+  <outline>
+    <component base="periodcentered" xOffset="628.0" yOffset="71.0"/>
+    <component base="L"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-09 21:53:12 +0000</string>
+    </dict>
+  </lib>
+</glyph>

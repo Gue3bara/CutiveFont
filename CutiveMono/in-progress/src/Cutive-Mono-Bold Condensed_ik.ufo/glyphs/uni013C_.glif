@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni013C" format="1">
+  <advance width="545.0"/>
+  <unicode hex="013C"/>
+  <outline>
+    <component base="uni0326" xScale="0.873" yScale="0.873" xOffset="147.0" yOffset="-356.0"/>
+    <component base="l"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>uni0326</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-12-10 22:52:58 +0000</string>
+    </dict>
+  </lib>
+</glyph>
