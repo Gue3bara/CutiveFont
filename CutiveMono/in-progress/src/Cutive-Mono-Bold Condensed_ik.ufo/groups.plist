@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>@MMK_L_A</key>
@@ -91,8 +91,8 @@
 	</array>
 	<key>@MMK_L_J</key>
 	<array>
-		<string>J</string>
 		<string>IJ</string>
+		<string>J</string>
 		<string>Jcircumflex</string>
 		<string>uni01C7</string>
 		<string>uni01CA</string>
@@ -267,8 +267,8 @@
 	</array>
 	<key>@MMK_L_e</key>
 	<array>
-		<string>e</string>
 		<string>ae</string>
+		<string>e</string>
 		<string>eacute</string>
 		<string>ebreve</string>
 		<string>ecaron</string>
@@ -299,8 +299,8 @@
 	</array>
 	<key>@MMK_L_guilsinglleft</key>
 	<array>
-		<string>guilsinglleft</string>
 		<string>guillemotleft</string>
+		<string>guilsinglleft</string>
 	</array>
 	<key>@MMK_L_hyphen</key>
 	<array>
@@ -328,10 +328,10 @@
 	</array>
 	<key>@MMK_L_j</key>
 	<array>
-		<string>j</string>
 		<string>uni01C8</string>
 		<string>uni01CB</string>
 		<string>ij</string>
+		<string>j</string>
 		<string>uni0237</string>
 		<string>jcircumflex</string>
 		<string>uni01C9</string>
@@ -353,11 +353,11 @@
 	</array>
 	<key>@MMK_L_n</key>
 	<array>
-		<string>n</string>
 		<string>h</string>
 		<string>hbar</string>
 		<string>hcircumflex</string>
 		<string>m</string>
+		<string>n</string>
 		<string>nacute</string>
 		<string>napostrophe</string>
 		<string>ncaron</string>
@@ -390,18 +390,18 @@
 	</array>
 	<key>@MMK_L_quoteleft</key>
 	<array>
-		<string>quoteleft</string>
 		<string>quotedblleft</string>
+		<string>quoteleft</string>
 	</array>
 	<key>@MMK_L_quoteright</key>
 	<array>
-		<string>quoteright</string>
 		<string>quotedblright</string>
+		<string>quoteright</string>
 	</array>
 	<key>@MMK_L_quotesingle</key>
 	<array>
-		<string>quotesingle</string>
 		<string>quotedbl</string>
+		<string>quotesingle</string>
 	</array>
 	<key>@MMK_L_r</key>
 	<array>
@@ -452,8 +452,8 @@
 	</array>
 	<key>@MMK_L_uni01F1</key>
 	<array>
-		<string>uni01F1</string>
 		<string>uni01C4</string>
+		<string>uni01F1</string>
 	</array>
 	<key>@MMK_L_w</key>
 	<array>
@@ -473,9 +473,9 @@
 	</array>
 	<key>@MMK_L_z</key>
 	<array>
-		<string>z</string>
 		<string>uni01C6</string>
 		<string>uni01F3</string>
+		<string>z</string>
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
@@ -497,7 +497,6 @@
 	</array>
 	<key>@MMK_R_H</key>
 	<array>
-		<string>H</string>
 		<string>B</string>
 		<string>D</string>
 		<string>Eth</string>
@@ -514,6 +513,7 @@
 		<string>Emacron</string>
 		<string>Eogonek</string>
 		<string>F</string>
+		<string>H</string>
 		<string>Hbar</string>
 		<string>Hcircumflex</string>
 		<string>I</string>
@@ -574,7 +574,6 @@
 	</array>
 	<key>@MMK_R_O</key>
 	<array>
-		<string>O</string>
 		<string>C</string>
 		<string>Cacute</string>
 		<string>Ccaron</string>
@@ -586,6 +585,7 @@
 		<string>Gcircumflex</string>
 		<string>uni0122</string>
 		<string>Gdotaccent</string>
+		<string>O</string>
 		<string>Oacute</string>
 		<string>Obreve</string>
 		<string>Ocircumflex</string>
@@ -725,8 +725,8 @@
 	</array>
 	<key>@MMK_R_guilsinglright</key>
 	<array>
-		<string>guilsinglright</string>
 		<string>guillemotright</string>
+		<string>guilsinglright</string>
 	</array>
 	<key>@MMK_R_h</key>
 	<array>
@@ -776,8 +776,8 @@
 	</array>
 	<key>@MMK_R_n</key>
 	<array>
-		<string>n</string>
 		<string>m</string>
+		<string>n</string>
 		<string>nacute</string>
 		<string>napostrophe</string>
 		<string>ncaron</string>
@@ -795,7 +795,6 @@
 	</array>
 	<key>@MMK_R_o</key>
 	<array>
-		<string>o</string>
 		<string>c</string>
 		<string>cacute</string>
 		<string>ccaron</string>
@@ -813,6 +812,7 @@
 		<string>egrave</string>
 		<string>emacron</string>
 		<string>eogonek</string>
+		<string>o</string>
 		<string>oacute</string>
 		<string>obreve</string>
 		<string>ocircumflex</string>
@@ -848,18 +848,18 @@
 	</array>
 	<key>@MMK_R_quoteleft</key>
 	<array>
-		<string>quoteleft</string>
 		<string>quotedblleft</string>
+		<string>quoteleft</string>
 	</array>
 	<key>@MMK_R_quoteright</key>
 	<array>
-		<string>quoteright</string>
 		<string>quotedblright</string>
+		<string>quoteright</string>
 	</array>
 	<key>@MMK_R_quotesingle</key>
 	<array>
-		<string>quotesingle</string>
 		<string>quotedbl</string>
+		<string>quotesingle</string>
 	</array>
 	<key>@MMK_R_s</key>
 	<array>

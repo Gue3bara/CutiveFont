@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ohungarumlaut" format="1">
-  <advance width="981.0"/>
+  <advance width="981"/>
   <unicode hex="0151"/>
   <outline>
-    <component base="hungarumlaut" xOffset="160.0" yOffset="70.0"/>
+    <component base="hungarumlaut" xOffset="160" yOffset="70"/>
     <component base="o"/>
   </outline>
   <lib>
